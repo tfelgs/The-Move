@@ -1,0 +1,81 @@
+.contact{
+    color: rgb(255, 255, 255);
+    font-size: 3vw;
+    position: relative; 
+    text-align: center;
+  }
+
+  .help{
+    color: rgb(45, 2, 91);
+    font-size: 3vw;
+    position: relative;
+    left: -100px;
+    top: -70px;
+    text-align: right;
+  }
+
+  .head{
+    color: rgb(45, 2, 91);
+    font-size: 2vw;
+  }
+
+  .text{
+    color: rgb(0, 0, 0);
+    font-size: 1vw;
+    position: relative;
+    left: -300px;
+    top: -70px;
+    text-align: right;
+  }
+
+  .images{
+    background-image: url('~/public/images/building.png');
+    background-position: center;
+    background-size: cover;
+    height: 280px;
+  }
+
+  .pagewrap{
+    width: 550px;
+  }
+
+  .contactForm{
+    text-align: left;
+    margin: 1rem 1rem 0rem;
+  }
+
+  .contactText{
+    text-align: left;
+    margin: 1rem;
+  }
+
+  .contactUs{
+    color:white;
+    font-size: 3vw;
+    position: relative;
+    text-align: center;
+    top: 120px;
+    font-weight: bolder;
+    text-shadow: 2px 2px black;
+  }
+
+  .contactSupport{
+    text-align: center;
+    margin: 0rem 1rem 3rem 1rem;
+  }
+
+  .topFoot{
+    color: rgb(45, 2, 91);
+    font-size: 30px;
+    margin: 0rem 1rem;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .bottomFoot{
+    background-color: #521550;
+    color:white;
+    font-size: 24px;
+    text-align: center;
+    margin: 1rem;
+  }

@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.titleRow {
+  background-image: linear-gradient(white, rgb(45, 2, 91));
+  height: 170px;
+  margin-top: 10px;
+}
+
+.grid {
+  height: "100vh";
+}
+
+.navRow,
+.contentRow,
+.footerRow {
+  background-color: rgb(45, 2, 91);
+  padding: 0 !important;
+}
+
+.routeContent {
+  background-color: white;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(45, 2, 91);
+  border-bottom-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+}

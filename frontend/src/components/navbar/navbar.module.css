@@ -1,0 +1,12 @@
+.navbar {
+  background-color: white;
+  border-top-style: solid;
+  border-top-color: white;
+  border-top-right-radius: 25px;
+  border-top-left-radius: 25px;
+  padding: 25px;
+}
+
+.searchbar {
+  background-color: white;
+}
